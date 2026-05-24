@@ -1,16 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="Cine en 4K y Latino" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Pop_Network_Logo.png",01 | CINE POP Uʜᴅ
-http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/167505.ts
-#EXTINF:-1 group-title="Cine en 4K y Latino" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Pop_Network_Logo.png",02 | CINE POP Uʜᴅ
-http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/167506.ts
-#EXTINF:-1 group-title="Cine en 4K y Latino" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Pop_Network_Logo.png",03 | CINE POP Uʜᴅ
-http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/167507.ts
-#EXTINF:-1 group-title="Cine en 4K y Latino" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Pop_Network_Logo.png",05 | CINE POP Uʜᴅ
-http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/167509.ts
-#EXTINF:-1 group-title="Cine en 4K y Latino" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Pop_Network_Logo.png",06 | CINE POP Uʜᴅ
-http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/167510.ts
-#EXTINF:-1 group-title="Cine en 4K y Latino" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Pop_Network_Logo.png",09 | CINE POP Uʜᴅ
-http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/167513.ts
 #EXTINF:-1 group-title="Canales 24/7 - Diversión",24/7 | Chavo del Ocho 8
 http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/138444.ts
 #EXTINF:-1 group-title="Canales 24/7 - Diversión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/El_Chapul%C3%ADn_Colorado_logo.svg/1200px-El_Chapul%C3%ADn_Colorado_logo.svg.png",24/7 | Chespirito SD
@@ -835,22 +823,6 @@ http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/283497.ts
 http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/162274.ts
 #EXTINF:-1 group-title="F1 & Moto GP Highlights" tvg-logo="https://img.freepik.com/vector-premium/logotipo-motocicleta-carreras-motos-motociclismo_600323-208.jpg",F1 GP | SuperSport Motorsport (FHD)
 http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/265263.ts
-#EXTINF:-1 group-title="Diversión Chicos: Premium Calidad HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Nick_2.png",KIDS | NICK 2 MX SD
-http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/132326.ts
-#EXTINF:-1 group-title="Diversión Chicos: Premium Calidad HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Nick_HD.png",KIDS | NICK HD ARG
-http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/149682.ts
-#EXTINF:-1 group-title="Diversión Chicos: Premium Calidad HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Nick_HD.png",KIDS | NICK MX HD
-http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/149681.ts
-#EXTINF:-1 group-title="Diversión Chicos: Premium Calidad HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Nick_%28Logo%29.png",KIDS | NICK MX SD
-http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/3662.ts
-#EXTINF:-1 group-title="Diversión Chicos: Premium Calidad HD" tvg-logo="https://assets.cdn.blog.olympusat.com/wp-content/uploads/2020/11/Ultra-kidz-Logo.png",KIDS | Nickelodeon East FHD*
-http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/159971.ts
-#EXTINF:-1 group-title="Diversión Chicos: Premium Calidad HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/Nickelodeon_schweiz_logo.png",KIDS | NICKELODEON ES FHD
-http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/162544.ts
-#EXTINF:-1 group-title="Diversión Chicos: Premium Calidad HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/1280px-Nickelodeon_2009_logo.svg.png",KIDS | NICKELODEON FHD
-http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/161034.ts
-#EXTINF:-1 group-title="Usa: Kids Channels" tvg-logo="https://w7.pngwing.com/pngs/820/1012/png-transparent-nicktoons-nickelodeon-logo-tv-television-nicktoons-freeze-frame-frenzy-blue-text-logo.png",KIDS | Nicktoons (EN)
-http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/140612.ts
 #EXTINF:-1 group-title="Canales: Premium Calidad HD & UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/A%26E_Network_%28Australia%29_logo.svg/1200px-A%26E_Network_%28Australia%29_logo.svg.png",LATAM | A&E ®
 http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/3020.ts
 #EXTINF:-1 group-title="Canales: Premium Calidad HD & UHD" tvg-logo="https://logodownload.org/wp-content/uploads/2020/01/amc-logo-1.png",LATAM | AMC ®
@@ -1311,38 +1283,6 @@ http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/232183.ts
 http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/232182.ts
 #EXTINF:-1 group-title="México: Liga MX Live!" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8f/Liga_MX.svg",ᴸᴵᴳᴬ ᴹˣ | VIX LO MEJOR LIGA MX HD®
 http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/153567.ts
-#EXTINF:-1 group-title="Europe: Top Sports Leagues" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/bundesliga-2-logo-png-transparent.png",ᴸᴵᴳᵁᴱ Europa |  BUNDESLIGA ALEMANIA ᴮᵁᴺᴰᴱˢᴸᴵᴳᴬ
-http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/140960.ts
-#EXTINF:-1 group-title="Europe: Top Sports Leagues" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/bundesliga-2-logo-png-transparent.png",ᴸᴵᴳᵁᴱ Europa | BUNDESLIGA ALEMANIA ᴮᵁᴺᴰᴱˢᴸᴵᴳᴬ
-http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/140962.ts
-#EXTINF:-1 group-title="Europe: Top Sports Leagues" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/DAZN_1_Logo.svg/2560px-DAZN_1_Logo.svg.png",ᴸᴵᴳᵁᴱ Europa | DAZN 1 FHD Backup*
-http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/140965.ts
-#EXTINF:-1 group-title="Europe: Top Sports Leagues" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/76/DAZN_2.svg",ᴸᴵᴳᵁᴱ Europa | DAZN 2
-http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/144815.ts
-#EXTINF:-1 group-title="Europe: Top Sports Leagues" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/0z5ub31657045435.png",ᴸᴵᴳᵁᴱ Europa | DAZN 3
-http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/144816.ts
-#EXTINF:-1 group-title="Europe: Top Sports Leagues" tvg-logo="https://assets.laliga.com/assets/logos/laliga-h/laliga-h-1200x1200.png",ᴸᴵᴳᵁᴱ Europa | DAZN LALIGA (ESP) FHD
-http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/140948.ts
-#EXTINF:-1 group-title="Europe: Top Sports Leagues" tvg-logo="https://i.pinimg.com/1200x/50/ee/7b/50ee7bf4c97391ea629bbcd42c1a6beb.jpg",ᴸᴵᴳᵁᴱ Europa | ELEVEN SPORTS
-http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/144821.ts
-#EXTINF:-1 group-title="Europe: Top Sports Leagues" tvg-logo="https://i.pinimg.com/1200x/50/ee/7b/50ee7bf4c97391ea629bbcd42c1a6beb.jpg",ᴸᴵᴳᵁᴱ Europa | ELEVEN SPORTS 2
-http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/144822.ts
-#EXTINF:-1 group-title="Europe: Top Sports Leagues" tvg-logo="https://i.pinimg.com/1200x/50/ee/7b/50ee7bf4c97391ea629bbcd42c1a6beb.jpg",ᴸᴵᴳᵁᴱ Europa | ELEVEN SPORTS 3
-http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/144823.ts
-#EXTINF:-1 group-title="Europe: Top Sports Leagues" tvg-logo="https://futbolete.com/wp-content/uploads/2021/07/Cuales-eventos-deportivos-ofrecera-Star-en-Colombia-scaled.jpg",ᴸᴵᴳᵁᴱ Europa | ESPN STAR+ FHD (SOLO EVENTOS)
-http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/160072.ts
-#EXTINF:-1 group-title="Europe: Top Sports Leagues" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/LaLiga_2023_Horizontal_Logo.svg/1200px-LaLiga_2023_Horizontal_Logo.svg.png",ᴸᴵᴳᵁᴱ Europa | LA LIGA (ESP) HD
-http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/161108.ts
-#EXTINF:-1 group-title="Europe: Top Sports Leagues" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/LaLiga_2023_Horizontal_Logo.svg/1200px-LaLiga_2023_Horizontal_Logo.svg.png",ᴸᴵᴳᵁᴱ Europa | LA LIGA + (ESP) Movistar
-http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/140955.ts
-#EXTINF:-1 group-title="Europe: Top Sports Leagues",ᴸᴵᴳᵁᴱ Europa | LIGUE 1 FRANCIA
-http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/140959.ts
-#EXTINF:-1 group-title="Europe: Top Sports Leagues" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/S%C3%ADmbolo_da_Liga_Portugal_bwin.png/800px-S%C3%ADmbolo_da_Liga_Portugal_bwin.png",ᴸᴵᴳᵁᴱ Europa | PRIMERA LIGA PORTUGAL
-http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/140964.ts
-#EXTINF:-1 group-title="Europe: Top Sports Leagues",ᴸᴵᴳᵁᴱ Europa | SERIE A ITALIA
-http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/140956.ts
-#EXTINF:-1 group-title="Europe: Top Sports Leagues" tvg-logo="https://www.panama24horas.com.pa/wp-content/uploads/2022/09/VIX-CARD-y-NP8sept-10am.jpg",ᴸᴵᴳᵁᴱ Europa | VIX Premium LaLiga HD
-http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/140952.ts
 #EXTINF:-1 group-title="América Sur: SD & HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png",Low |  ESPN 3 (Low)
 http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/3853.ts
 #EXTINF:-1 group-title="América Sur: SD & HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Fox_Sports_Premium_%28Argentina%29_-_2018_logo.png",Low |  Fox Sports (L)
@@ -1813,25 +1753,3 @@ http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/132281.ts
 http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/132292.ts
 #EXTINF:-1 group-title="Deportes: Premium Calidad SD" tvg-logo="https://download.logo.wine/logo/Movistar_Deportes/Movistar_Deportes-Logo.wine.png",Sports SDT | MOVISTAR DEPORTES
 http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/132289.ts
-#EXTINF:-1 group-title="Europe: Top Sports Leagues" tvg-logo="http://2.magmas5.com:8000/images/54e807fc9dfbead730d154fca292a04b.png",SuperSport Premier League FHD
-http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/189988.ts
-#EXTINF:-1 group-title="Venezuela: TV Premium" tvg-logo="https://www.newslinereport.com/online/foto_665.JPG",VEN:  Venevisión Internacional HD (Variado)
-http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/307510.ts
-#EXTINF:-1 group-title="Venezuela: TV Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1200px-FOX_Sports_logo.svg.png",VEN: FOX SPORTS VENEZUELA
-http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/151660.ts
-#EXTINF:-1 group-title="Venezuela: TV Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/Venezolana_de_Televisi%C3%B3n_2018.svg",VEN: Globo Ven TV ʜᴅ
-http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/190834.ts
-#EXTINF:-1 group-title="Venezuela: TV Premium" tvg-logo="https://www.globovision.com/static/img/gv-logo.png",VEN: GLOBOVISION TV (ʜᴅ)
-http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/156075.ts
-#EXTINF:-1 group-title="Venezuela: TV Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/IVC_Network_Logo.png",VEN: IVC Venezuela ᴴᴰ
-http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/158470.ts
-#EXTINF:-1 group-title="Venezuela: TV Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/Logo_Meridiano_TV_Venezuela.png",VEN: MERIDIANO TV (SD)
-http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/151873.ts
-#EXTINF:-1 group-title="Venezuela: TV Premium",VEN: TELEVEN (SDT) VE
-http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/151662.ts
-#EXTINF:-1 group-title="Venezuela: TV Premium" tvg-logo="https://w2-noticierovenevision-net.s3.amazonaws.com/public/media/images/logo-venevision-0-1.jpg",VEN: VENEVISION
-http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/151655.ts
-#EXTINF:-1 group-title="Venezuela: TV Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ab/Venevisi%C3%B3n_International.PNG/250px-Venevisi%C3%B3n_International.PNG",VEN: Venevisión Inernacional HD
-http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/160925.ts
-#EXTINF:-1 group-title="Venezuela: TV Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/Venevision_Plus_Logo_2016.png",VEN: VENEVISION PLUS
-http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/151671.ts
