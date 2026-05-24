@@ -152,8 +152,6 @@ http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/3559.ts
 http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/4950.ts
 #EXTINF:-1 group-title="Argentina: Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png",ARG: TNT SERIES Pʳᵉᵐⁱᵘᵐ ʜᴅ
 http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/5024.ts
-#EXTINF:-1 group-title="Argentina: TV Nacionales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TNT_Sports_Logo_Vertical_%282017%29.png",ARG: TNT SPORTS ᴬᴿᴳᴱᴺᵀᴵᴺᴬ ᴴᴰ
-http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/131980.ts
 #EXTINF:-1 group-title="Argentina: Liga Fútbol" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TNT_Sports_Logo_Vertical_%282017%29.png",ARG: TNT SPORTS FHD
 http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/148458.ts
 #EXTINF:-1 group-title="Argentina: Liga Fútbol" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TNT_Sports_Logo_Vertical_%282017%29.png",ARG: TNT SPORTS ᴾᴿᴵᴹᴱᴿᴬ ᴬᴿᴳᴱᴺᵀᴵᴺᴬ
@@ -176,10 +174,6 @@ http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/135663.ts
 http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/4947.ts
 #EXTINF:-1 group-title="Argentina: Premium" tvg-logo="https://image.flaticon.com/icons/png/512/870/870980.png",ARG: WARNER Pʳᵉᵐⁱᵘᵐ ʜᴅ
 http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/135664.ts
-#EXTINF:-1 group-title="Canales 24/7 - Diversión" tvg-logo="https://image.tmdb.org/t/p/w185/vxuoMW6YBt6UsxvMfRNwRl9LtWS.jpg",CINE CRÍMENES HD 24/7
-http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/129360.ts
-#EXTINF:-1 group-title="Canales 24/7 - Diversión" tvg-logo="https://s2.abcstatics.com/abc/www/multimedia/play/2023/09/29/fiesta-del-cine-ka6G-U60308313672MbH-1200x840@abc.jpg",Cine Marvel Cronológico FHD
-http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/138467.ts
 #EXTINF:-1 group-title="Cine: Premium Calidad SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/1280px-A%26E_Network_logo.svg.png",CINE: A&E (Low)
 http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/3839.ts
 #EXTINF:-1 group-title="Cine: Premium Calidad HD & UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/1280px-A%26E_Network_logo.svg.png",CINE: A&E HD (5MB)
@@ -1060,16 +1054,6 @@ http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/297235.ts
 http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/297244.ts
 #EXTINF:-1 group-title="América Sur: SD & HD" tvg-logo="http://2.magmas5.com:8000/images/4b598a3fbb42b14f6a9eb19415129a5a.jpg",LATAM General | RunTime Comba Acción
 http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/297245.ts
-#EXTINF:-1 group-title="América Sur: SD & HD" tvg-logo="http://2.magmas5.com:8000/images/4b598a3fbb42b14f6a9eb19415129a5a.jpg",LATAM General | RunTime Corazón Fast
-http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/297243.ts
-#EXTINF:-1 group-title="América Sur: SD & HD" tvg-logo="http://2.magmas5.com:8000/images/4b598a3fbb42b14f6a9eb19415129a5a.jpg",LATAM General | RunTime Espanol Cine y Series
-http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/297236.ts
-#EXTINF:-1 group-title="América Sur: SD & HD" tvg-logo="https://img.odcdn.com.br/wp-content/uploads/2024/02/Design-sem-nome-10.jpg",LATAM General | RunTime Latino Cine
-http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/297234.ts
-#EXTINF:-1 group-title="América Sur: SD & HD" tvg-logo="http://2.magmas5.com:8000/images/4b598a3fbb42b14f6a9eb19415129a5a.jpg",LATAM General | RunTime Latino Comedia
-http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/297240.ts
-#EXTINF:-1 group-title="América Sur: SD & HD" tvg-logo="http://2.magmas5.com:8000/images/4b598a3fbb42b14f6a9eb19415129a5a.jpg",LATAM General | RunTime Latino Familia
-http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/297237.ts
 #EXTINF:-1 group-title="América Sur: SD & HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d2/Logosonychannellatam2023.png",LATAM General | SONY ARG. HD
 http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/4801.ts
 #EXTINF:-1 group-title="América Sur: SD & HD" tvg-logo="https://sebastiandietsch.com/wp-content/uploads/2019/03/canal-space-png-1.png",LATAM General | SPACE
@@ -1096,14 +1080,6 @@ http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/4851.ts
 http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/4865.ts
 #EXTINF:-1 group-title="América Sur: SD & HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fd/TVes_logo.PNG",LATAM General | TVES
 http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/4897.ts
-#EXTINF:-1 group-title="América Sur: SD & HD" tvg-logo="https://www.ucltelevision.com/wp-content/uploads/2020/12/Logo-UCL-TV-LATAM-horizontal.png",LATAM General | UCL HD®
-http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/162521.ts
-#EXTINF:-1 group-title="América Sur: SD & HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/Ucvtvlogo2014mejorado.png",LATAM General | UCV3
-http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/4909.ts
-#EXTINF:-1 group-title="América Sur: SD & HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/EcuadorTV_logo.png/800px-EcuadorTV_logo.png",LATAM General | UNINANDES TV
-http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/4899.ts
-#EXTINF:-1 group-title="América Sur: SD & HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/Logo_de_VALE_TV.png",LATAM General | VALE TV SUR
-http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/4879.ts
 #EXTINF:-1 group-title="América Sur: SD & HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Logo_de_Venevisi%C3%B3n.svg/854px-Logo_de_Venevisi%C3%B3n.svg.png",LATAM General | VENEVISION
 http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/4877.ts
 #EXTINF:-1 group-title="América Sur: SD & HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Venevision_Plus_Logo_2016.png/1271px-Venevision_Plus_Logo_2016.png",LATAM General | VENEVISION PLUS *
@@ -1114,10 +1090,6 @@ http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/4880.ts
 http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/4812.ts
 #EXTINF:-1 group-title="México: Liga MX Live!" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/FOX_Deportes_logo.svg",ᴸᴵᴳᴬ ᴹˣ |  FOX SPORTS DEPORTES HD®
 http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/146542.ts
-#EXTINF:-1 group-title="México: Liga MX Live!" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/AdrenalinaSportsNetwork.png",ᴸᴵᴳᴬ ᴹˣ | ADRENALINA SPORTS NETWORK FHD®
-http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/154748.ts
-#EXTINF:-1 group-title="México: Liga MX Live!" tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/aym_spor ts-600x540-425346095.png",ᴸᴵᴳᴬ ᴹˣ | AYM SPORTS MX UHD
-http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/151831.ts
 #EXTINF:-1 group-title="México: Liga MX Live!" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claro_Sports_logo.svg/4221px-Claro_Sports_logo.svg.png",ᴸᴵᴳᴬ ᴹˣ | Claro SPORTS (La Liga) MX®
 http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/161000.ts
 #EXTINF:-1 group-title="México: Liga MX Live!" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claro_Sports_logo.svg/1280px-Claro_Sports_logo.svg.png",ᴸᴵᴳᴬ ᴹˣ | CLARO SPORTS FHD®
@@ -1398,10 +1370,6 @@ http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/134167.ts
 http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/230748.ts
 #EXTINF:-1 group-title="Chile: Primera División" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TNT_Sports_Logo_Vertical_%282017%29.png",ᴾᴿᴵᴹᴱᴿᴬ Chile: TNT SPORTS Premium Opc.2 ᴴᴰ
 http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/3530.ts
-#EXTINF:-1 group-title="Canales 24/7 - Diversión" tvg-logo="https://www.vhv.rs/dpng/d/449-4498932_sin-senos-no-hay-paraso-sin-senos-no.png",Sin Senos no hay Paraíso 24/7 HD*
-http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/129372.ts
-#EXTINF:-1 group-title="Deportes: Premium Calidad HD & UHD" tvg-logo="https://www.telecablecr.com/wp-content/uploads/2019/01/ADRENALINA-SPORTS-NETWORK-NEGRO.png",Sports | ADRENALINA SPORTS NETWORK MX UHD®
-http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/145469.ts
 #EXTINF:-1 group-title="Deportes: Premium Calidad HD & UHD" tvg-logo="https://beinxtraespanol.com/videos/video-poster.png",Sports | BEIN SPORT XTRA 4K
 http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/159778.ts
 #EXTINF:-1 group-title="Deportes: Premium Calidad HD & UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png",Sports | BEIN SPORTS XTRA Ñ
@@ -1482,36 +1450,12 @@ http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/145447.ts
 http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/145805.ts
 #EXTINF:-1 group-title="Deportes: Premium Calidad HD & UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/GOLTV.png",Sports | GOL TV HD
 http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/145445.ts
-#EXTINF:-1 group-title="Deportes: Premium Calidad HD & UHD" tvg-logo="https://img3.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/960x540/channel-linear_itv-16x9.jpg",Sports | ITV Deportes MX
-http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/145474.ts
-#EXTINF:-1 group-title="Deportes: Premium Calidad HD & UHD" tvg-logo="https://img.epicentro.tv/upload/2022/10/17161D564C42446D151E7B55544940731F15164A1D42457817-1024x576.jpg",Sports | LIGA PERU HD
-http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/145450.ts
-#EXTINF:-1 group-title="Deportes: Premium Calidad HD & UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Football_of_Ecuador_-_Liga_Pro_logo_%28mini%29.svg/3840px-Football_of_Ecuador_-_Liga_Pro_logo_%28mini%29.svg.png",Sports | Liga Pro ECUADOR HD
-http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/145446.ts
-#EXTINF:-1 group-title="Deportes: Premium Calidad HD & UHD" tvg-logo="https://images.app.goo.gl/V6YWTZmnM4n47Nve8",Sports | MSG
-http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/145478.ts
-#EXTINF:-1 group-title="Usa: Live Sports" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/b/ba/Nautical_Channel_%282020-.n.v.%29.png",Sports | Nautical Channel SPORTS HD*
-http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/289469.ts
-#EXTINF:-1 group-title="Deportes: Premium Calidad HD & UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/PX_Sports_.png",Sports | PX SPORTS HD
-http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/215032.ts
-#EXTINF:-1 group-title="Deportes: Premium Calidad HD & UHD" tvg-logo="https://img1.freepng.es/20180331/pie/kisspng-history-of-real-madrid-c-f-logo-clip-art-real-madrid-5abf8083c251d6.6314274415224997157959.jpg",Sports | REAL MADRID
-http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/145472.ts
 #EXTINF:-1 group-title="Deportes: Premium Calidad HD & UHD" tvg-logo="https://logos-download.com/wp-content/uploads/2016/09/Red_Bull_TV_logo.png",Sports | RED BULL TV
 http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/145483.ts
-#EXTINF:-1 group-title="Deportes: Premium Calidad HD & UHD" tvg-logo="https://setantasports.com/wp-content/uploads/2023/02/logo.png",Sports | SETANTA SPORTS + (UHD)
-http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/162514.ts
 #EXTINF:-1 group-title="Deportes: Premium Calidad HD & UHD" tvg-logo="https://seekvectorlogo.com/wp-content/uploads/2018/01/sky-sports-vector-logo.png",Sports | SKY SPORTS
 http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/145486.ts
-#EXTINF:-1 group-title="Deportes: Premium Calidad HD & UHD" tvg-logo="https://ia600806.us.archive.org/13/items/SkySportsAction_201708/sky%20sports%20action.png",Sports | SKY Sports ACTION UHD (UK) 4K
-http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/145816.ts
 #EXTINF:-1 group-title="Deportes: Premium Calidad HD & UHD" tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/sky-sports-logo-5.png",Sports | SKY SPORTS LA LIGA HD
 http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/145437.ts
-#EXTINF:-1 group-title="Deportes: Premium Calidad HD & UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Sky-sports-main-event.jpg",Sports | SKY Sports Main Event (UK)
-http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/145810.ts
-#EXTINF:-1 group-title="Deportes: Premium Calidad HD & UHD" tvg-logo="https://www.nicepng.com/png/detail/213-2133982_sky-sports-logo-png.png",Sports | SKY SPORTS PREMIER LEAGUE FHD
-http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/145438.ts
-#EXTINF:-1 group-title="Deportes: Premium Calidad HD & UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ad/Logo_of_French_sports_television_channel_Sport_en_France.png",Sports | SPORT EN FRANCE (UHD)
-http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/162199.ts
 #EXTINF:-1 group-title="Deportes: Premium Calidad HD & UHD" tvg-logo="https://www.thesportsdb.com/images/media/logo/qpyqws1470407526.png",Sports | SPORT TV | 1 UHD
 http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/145475.ts
 #EXTINF:-1 group-title="Deportes: Premium Calidad HD & UHD" tvg-logo="https://www.thesportsdb.com/images/media/logo/vpwuyu1470409212.png",Sports | SPORT TV | 2 UHD
@@ -1524,40 +1468,18 @@ http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/145454.ts
 http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/145455.ts
 #EXTINF:-1 group-title="Deportes: Premium Calidad HD & UHD" tvg-logo="https://www.sporttv.pt/img/static/sport-tv-institucional.png",Sports | SPORTTV 3 HD
 http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/145456.ts
-#EXTINF:-1 group-title="Deportes: Premium Calidad HD & UHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/46/BeIN_Sports_Rugby_Logo.png",Sports | Super SPORTS RUGBY (Fᴴᴰ)
-http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/168427.ts
-#EXTINF:-1 group-title="Deportes: Premium Calidad HD & UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/TD_M%C3%A1s_Logo.png",Sports | TD+
-http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/145465.ts
-#EXTINF:-1 group-title="Deportes: Premium Calidad HD & UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/TD_M%C3%A1s_2_Logo.svg/1280px-TD_M%C3%A1s_2_Logo.svg.png",Sports | TD+ 2
-http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/145466.ts
-#EXTINF:-1 group-title="Deportes: Premium Calidad HD & UHD" tvg-logo="https://img2.freepng.es/20180524/csz/kisspng-roku-tennis-channel-television-channel-creative-tennis-5b069e0ac7f665.9799128415271603308191.jpg",Sports | TENNIS CHANNEL
-http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/145470.ts
 #EXTINF:-1 group-title="Deportes: Premium Calidad HD & UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Tigo_Sports_logo.svg/2560px-Tigo_Sports_logo.svg.png",Sports | TIGO SPORTS HONDURAS HD
 http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/145463.ts
 #EXTINF:-1 group-title="Deportes: Premium Calidad HD & UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TNT_Sports_Logo_Vertical_%282017%29.png",Sports | TNT SPORTS  CHILE
 http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/145443.ts
 #EXTINF:-1 group-title="Deportes: Premium Calidad HD & UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TNT_Sports_Logo_Vertical_%282017%29.png",Sports | TNT SPORTS ARGENTINA HD
 http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/145442.ts
-#EXTINF:-1 group-title="Deportes: Premium Calidad HD & UHD" tvg-logo="https://masmediatv.es/images/LOGOS%20CANALES/Caza%20Pesca%20Toros/torole.png",Sports | TORO OLE FHD
-http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/145484.ts
 #EXTINF:-1 group-title="Deportes: Premium Calidad HD & UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1280px-TUDN_Logo.svg.png",Sports | TUDN MX UHD
 http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/145458.ts
-#EXTINF:-1 group-title="Deportes: Premium Calidad HD & UHD" tvg-logo="https://raw.githubusercontent.com/maincenter/Logotipos-TV/master/main/transparentes/tvG2.png",Sports | TVG 2
-http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/145468.ts
 #EXTINF:-1 group-title="Deportes: Premium Calidad HD & UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/1280px-TyC_Sports_logo.svg.png",Sports | TYC SPORTS HD
 http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/145440.ts
 #EXTINF:-1 group-title="Deportes: Premium Calidad HD & UHD" tvg-logo="https://sport-tv-guide.live/images/stations/a1246.png",Sports | TYC SPORTS INTERNACIONAL
 http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/145441.ts
-#EXTINF:-1 group-title="Deportes: Premium Calidad HD & UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/UFC_Network.png/800px-UFC_Network.png",Sports | UFC NETWORK HD
-http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/145480.ts
-#EXTINF:-1 group-title="Deportes: Premium Calidad HD & UHD" tvg-logo="https://www.pngitem.com/pimgs/m/229-2290404_ufc-logo-ufc-hd-png-download.png",Sports | UFC TV HD
-http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/145479.ts
-#EXTINF:-1 group-title="Deportes: Premium Calidad HD & UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/NBC_Sports_Network_logo.svg/1200px-NBC_Sports_Network_logo.svg.png",Sports | USA Network (US)
-http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/145818.ts
-#EXTINF:-1 group-title="Deportes: Premium Calidad HD & UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/VTV%2BUruguay.svg/768px-VTV%2BUruguay.svg.png",Sports | VTV + UY
-http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/145453.ts
-#EXTINF:-1 group-title="Deportes: Premium Calidad HD & UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/VTVURU.png",Sports | VTV UY
-http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/145452.ts
 #EXTINF:-1 group-title="Deportes: Premium Calidad HD & UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/WinSports2017.png/1200px-WinSports2017.png",Sports | WIN SPORTS
 http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/145448.ts
 #EXTINF:-1 group-title="Deportes: Premium Calidad HD & UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/WinSports2017.png",Sports | WIN SPORTS +
@@ -1604,17 +1526,9 @@ http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/132268.ts
 http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/1971.ts
 #EXTINF:-1 group-title="Deportes: Premium Calidad SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/640px-FOX_Sports_logo.svg.png",Sports SDT | FOX SPORTS PREMIUM
 http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/138034.ts
-#EXTINF:-1 group-title="Deportes: Premium Calidad SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Logo_de_FUTV.svg/640px-Logo_de_FUTV.svg.png",Sports SDT | FUTV
-http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/132301.ts
-#EXTINF:-1 group-title="Deportes: Premium Calidad SD" tvg-logo="https://i.imgur.com/f8BkLql.png",Sports SDT | FUTV TV OPC. 2*
-http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/140409.ts
-#EXTINF:-1 group-title="Deportes: Premium Calidad SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Golf_Channel_Logo.png/1200px-Golf_Channel_Logo.png",Sports SDT | GOLF CHANNEL
-http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/156074.ts
 #EXTINF:-1 group-title="Deportes: Premium Calidad SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/GOLTV.png",Sports SDT | GOLTV
 http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/125991.ts
 #EXTINF:-1 group-title="Deportes: Premium Calidad SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/GolTV_logo.svg/1200px-GolTV_logo.svg.png",Sports SDT | GOLTV LATINOAMERICA
 http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/132281.ts
-#EXTINF:-1 group-title="Deportes: Premium Calidad SD" tvg-logo="https://img.epicentro.tv/upload/2022/10/17161D564C42446D151E7B55544940731F15164A1D42457817-1024x576.jpg",Sports SDT | LIGA PERU
-http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/132292.ts
 #EXTINF:-1 group-title="Deportes: Premium Calidad SD" tvg-logo="https://download.logo.wine/logo/Movistar_Deportes/Movistar_Deportes-Logo.wine.png",Sports SDT | MOVISTAR DEPORTES
 http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/132289.ts
